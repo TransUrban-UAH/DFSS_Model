@@ -1,0 +1,97 @@
+
+Executing the script encharged of the generation of neighbouts of each parcel.
+
+Setting working directory in: C:\OneDrive - Universidad de Alcala\UAH\niko\sample_Los_santos
+
+Opening the scenario shapefile: scenario_1.shp
+
+Working with the buffer of 25 meters.
+Executing the Spatial Join...
+Done!
+
+Adding the neighbours to each parcel...
+Done!
+
+Converting fields to normalized strings.
+Working with the buffer of 50 meters.
+Executing the Spatial Join...
+Done!
+
+Adding the neighbours to each parcel...
+Done!
+
+Converting fields to normalized strings.
+Working with the buffer of 75 meters.
+Executing the Spatial Join...
+Done!
+
+Adding the neighbours to each parcel...
+Done!
+
+Converting fields to normalized strings.
+Working with the buffer of 100 meters.
+Executing the Spatial Join...
+Done!
+
+Adding the neighbours to each parcel...
+Done!
+
+Converting fields to normalized strings.
+Working with the buffer of 125 meters.
+Executing the Spatial Join...
+Done!
+
+Adding the neighbours to each parcel...
+Done!
+
+Converting fields to normalized strings.
+Working with the buffer of 150 meters.
+Executing the Spatial Join...
+Done!
+
+Adding the neighbours to each parcel...
+Done!
+
+Converting fields to normalized strings.
+Working with the buffer of 175 meters.
+Executing the Spatial Join...
+Done!
+
+Adding the neighbours to each parcel...
+Done!
+
+Converting fields to normalized strings.
+Working with the buffer of 200 meters.
+Executing the Spatial Join...
+Done!
+
+Adding the neighbours to each parcel...
+Done!
+
+Converting fields to normalized strings.
+Working with the buffer of 250 meters.
+Executing the Spatial Join...
+Done!
+
+Adding the neighbours to each parcel...
+Done!
+
+Converting fields to normalized strings.
+Working with the buffer of 300 meters.
+Executing the Spatial Join...
+Done!
+
+Adding the neighbours to each parcel...
+Done!
+
+Converting fields to normalized strings.
+Working with the buffer of 500 meters.
+Executing the Spatial Join...
+Done!
+
+Adding the neighbours to each parcel...
+Done!
+
+Converting fields to normalized strings.
+Saving Excel file
+Process time: 11.24minutes

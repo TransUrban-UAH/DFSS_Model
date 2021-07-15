@@ -1,0 +1,119 @@
+
+Preparing the simulation...
+Generating a field with the simulated use changes...
+Done.
+
+Executing the simulation...
+
+Iteration (Year): 2018 - 2050
+
+Updating the attraction values for each parcel...
+Standarizing the values...
+
+Done.
+
+Calculating the potential uses values for each parcel...
+Done.
+
+Calculating the demand for each use on this iteration...
+Done.
+
+Executing the simulation...
+
+Finding the potential parcels to be developed based on the current priority (0) [0 = best for that use, 1 = second best, and so on] for each use.
+
+The demand of commerce and facilities areas has been suplied, with a deficit/surplus of -25280.08199999999 that will be used on next iteration.
+
+The demand of industrial use areas has been suplied, with a deficit/surplus of -4728.193000000116 that will be used on next iteration.
+
+The demand of single-family residential areas has been suplied, with a deficit/surplus of 20292.799600000202 that will be used on next iteration.
+
+
+----------------------------------------------------------------------------------------------------
+
+SUMMARY OF THE PARCELS THAT HAS CHANGED THEIR USE BASED ON THE BEST FIT PRIORITY:
+
+For the priority order 0, of the  total of 60 developed parcels, there have been developed:
+
+5 parcels destined to commerce and facilities.
+5 parcels destined to industrial use.
+50 parcels destined to single-family residentials.
+0 parcels destined to multi-family residentials.
+0 parcels destined to mixed residentials.
+
+----------------------------------------------------------------------------------------------------
+
+The demand of all uses has been suplied, with the order 0 as the last priority used. Showing the results.
+
+----------------------------------------------------------------------------------------------------
+
+ITERATION 2018 - 2050:
+
+AREA DESTINED TO COMMERCE AND FACILITIES: 48722.31999999999
+Number of parcels: 5
+
+AREA DESTINED TO USO INDUSTRIAL USE: 119667.23000000001
+Number of parcels: 5
+
+AREA DESTINED TO SINGLE-FAMILY RESIDENTIALS: 440230.7954999998
+Number of parcels: 50
+
+AREA DESTINED TO MULTI-FAMILY RESIDENTIALS: 0.0
+Number of parcels: 0
+
+AREA DESTINED TO USO MIXED RESIDENTIALS: 0.0
+Number of parcels: 0
+
+
+----------------------------------------------------------------------------------------------------
+
+LOST AREA FOR EACH USE (WHICH INCLUDE DEFICIT/SURPLUS RELATED TO THE FULFILMENT OF DEMAND REQUIREMENTS):
+
+AREA OF COMMERCE AND FACILITIES: -25280.08199999999
+AREA OF USO INDUSTRIAL USE: -4728.193000000116
+AREA OF SINGLE-FAMILY RESIDENTIALS: 20292.799600000202
+AREA OF MULTI-FAMILY RESIDENTIALS: 0.0
+AREA OF USO MIXED RESIDENTIALS: 0.0
+
+****************************************************************************************************
+
+Last iteration reached, so that the remaining area that has not been develop yep has to do it to reach threshold established for each use. Any parcel that fits in each order priority and that dont surpass remaining amount of area lost will be used to develop.
+
+Total extra of 11 parcels has been developed to ensure minimum total demand loss.
+
+THE FINAL LOST AREA FOR EACH USE IS:
+
+AREA OF COMMERCE AND FACILITIES: -25280.08199999999
+AREA OF USO INDUSTRIAL USE: -4728.193000000116
+AREA OF SINGLE-FAMILY RESIDENTIALS: 13.479600000203504
+AREA OF MULTI-FAMILY RESIDENTIALS: 0.0
+AREA OF MIXED RESIDENTIALS: 0.0
+
+Calculating the confussion matrix and accuracy metrics of the simulation...
+Done.
+
+Saving the shapefile: SIM_sce1_vF_all_BUFFER_100_0.1_0_C32.shp
+Saving the Excel: SIM_sce1_vF_all_BUFFER_100_0.1_0_C32.xlsx
+
+
+###############################################################################
+###############################################################################
+
+PARAMETERS USED FOR THE SIMULATION:
+
+| DESCRIPTION                                | VARIABLE |       VALUE |
+-----------------------------------------------------------------------
+| Year to simulate                           |     YYYY |        2050 |
+| Type of neighbourhood                      | coef_vec |      vF_all |
+| Buffer size                                |     dist |         100 |
+| Resistance to change factor                |      frc |         0.1 |
+| Degree of randomness                       |     alfa |           0 |
+| Priority of urban parcels over rustic ones | urb_prio |        0.98 |
+| Lapse of time that each intern simualting  |          |             |
+| iteration represents(years)                |    ciclo |          32 |
+
+###############################################################################
+###############################################################################
+
+
+Process time: 0.15minutes

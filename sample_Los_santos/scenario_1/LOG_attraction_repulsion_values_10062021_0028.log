@@ -1,0 +1,236 @@
+
+Setting working directory in: C:\OneDrive - Universidad de Alcala\UAH\niko\sample_Los_santos
+
+Executing attraction-repulsion values computation
+
+Opnening the main file: scenario_1.shp
+
+The overall data of the studied area are:  
+
+Area commerce_utilities: 109880.11519999999 m2.
+Area industrial:    239268.2829999999 m2.
+Area single_family: 766080.3942000001 m2.
+Area multi_family:  6708.5064999999995 m2.
+Area mixed:         1964.2839999999999 m2.
+Area vacant:        32136778.73860002 m2.
+Area total:         33260680.321499955 m2.
+
+Generating the DataFrames to store the results
+
+Generating the working graph...
+
+Done!
+
+Adding neighbours to each node according to the buffer size...
+Working with the distance: 25
+
+Executing the vF_all computation
+
+Calculations finished
+
+Executing the vF_changes computation
+
+Calculations finished
+
+Executing the vNI_all computation
+
+Calculations finished
+
+Executing the vNI_changes computation
+
+Calculations finished
+
+Filling the DF with the values with the buffer distance of 25 meters
+Working with the distance: 50
+
+Executing the vF_all computation
+
+Calculations finished
+
+Executing the vF_changes computation
+
+Calculations finished
+
+Executing the vNI_all computation
+
+Calculations finished
+
+Executing the vNI_changes computation
+
+Calculations finished
+
+Filling the DF with the values with the buffer distance of 50 meters
+Working with the distance: 75
+
+Executing the vF_all computation
+
+Calculations finished
+
+Executing the vF_changes computation
+
+Calculations finished
+
+Executing the vNI_all computation
+
+Calculations finished
+
+Executing the vNI_changes computation
+
+Calculations finished
+
+Filling the DF with the values with the buffer distance of 75 meters
+Working with the distance: 100
+
+Executing the vF_all computation
+
+Calculations finished
+
+Executing the vF_changes computation
+
+Calculations finished
+
+Executing the vNI_all computation
+
+Calculations finished
+
+Executing the vNI_changes computation
+
+Calculations finished
+
+Filling the DF with the values with the buffer distance of 100 meters
+Working with the distance: 125
+
+Executing the vF_all computation
+
+Calculations finished
+
+Executing the vF_changes computation
+
+Calculations finished
+
+Executing the vNI_all computation
+
+Calculations finished
+
+Executing the vNI_changes computation
+
+Calculations finished
+
+Filling the DF with the values with the buffer distance of 125 meters
+Working with the distance: 150
+
+Executing the vF_all computation
+
+Calculations finished
+
+Executing the vF_changes computation
+
+Calculations finished
+
+Executing the vNI_all computation
+
+Calculations finished
+
+Executing the vNI_changes computation
+
+Calculations finished
+
+Filling the DF with the values with the buffer distance of 150 meters
+Working with the distance: 175
+
+Executing the vF_all computation
+
+Calculations finished
+
+Executing the vF_changes computation
+
+Calculations finished
+
+Executing the vNI_all computation
+
+Calculations finished
+
+Executing the vNI_changes computation
+
+Calculations finished
+
+Filling the DF with the values with the buffer distance of 175 meters
+Working with the distance: 200
+
+Executing the vF_all computation
+
+Calculations finished
+
+Executing the vF_changes computation
+
+Calculations finished
+
+Executing the vNI_all computation
+
+Calculations finished
+
+Executing the vNI_changes computation
+
+Calculations finished
+
+Filling the DF with the values with the buffer distance of 200 meters
+Working with the distance: 250
+
+Executing the vF_all computation
+
+Calculations finished
+
+Executing the vF_changes computation
+
+Calculations finished
+
+Executing the vNI_all computation
+
+Calculations finished
+
+Executing the vNI_changes computation
+
+Calculations finished
+
+Filling the DF with the values with the buffer distance of 250 meters
+Working with the distance: 300
+
+Executing the vF_all computation
+
+Calculations finished
+
+Executing the vF_changes computation
+
+Calculations finished
+
+Executing the vNI_all computation
+
+Calculations finished
+
+Executing the vNI_changes computation
+
+Calculations finished
+
+Filling the DF with the values with the buffer distance of 300 meters
+Working with the distance: 500
+
+Executing the vF_all computation
+
+Calculations finished
+
+Executing the vF_changes computation
+
+Calculations finished
+
+Executing the vNI_all computation
+
+Calculations finished
+
+Executing the vNI_changes computation
+
+Calculations finished
+
+Filling the DF with the values with the buffer distance of 500 meters
+
+Saving the DFs with .xlsx format
+Process time: 5.73minutes
