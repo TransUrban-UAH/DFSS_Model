@@ -198,10 +198,9 @@ def set_up_data(wd, scenario_list, z_default, z_urban, z_nonurban, z_protected,
                     for alfa in alfa_list:
                         
                         # declaring the name that final output files will have
-                        sim_name = "SIM_" + scenario[0:3] + scenario[-1:] +\
-                                    "_" + coef_vec + "_BUFFER_" + str(dist) +\
-                                    "_" + str(frc) + "_" + str(alfa) + "_C" +\
-                                        str(cicle)
+                        sim_name = scenario[0:3] + scenario[-1:] + "_" +\
+                                   coef_vec + "_BUFFER_" + str(dist) + "_" +\
+                                   str(frc) + "_" + str(alfa) + "_C" + str(cicle)
                         
                         # differentiating every output with the time it was
                         # generated
