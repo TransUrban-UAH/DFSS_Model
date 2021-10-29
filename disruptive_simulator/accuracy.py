@@ -30,7 +30,7 @@ def accuracy_assessment(gdf):
     '''
     
     # list of uses that will be evaluated
-    use_list = ["commerce_utility", "single_family", "multi_family",
+    use_list = ["commerce_utilities", "single_family", "multi_family",
                 "industrial", "vacant", "mixed"]
     
     # selecting the parcels that changed or should have been changed
